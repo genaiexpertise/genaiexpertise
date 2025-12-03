@@ -1,6 +1,10 @@
+![](./docs/Gemini_Generated_Image_pynidvpynidvpyni.png)
 
+***
 
-# **A Practical Guide to Building a GenAI Application — Course Labs**
+# **A Practical Guide to Building a GenAI Application**
+
+***
 
 Welcome to the official lab repository for the course **A Practical Guide to Building a GenAI Application**.
 
