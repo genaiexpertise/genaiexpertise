@@ -1,3 +1,14 @@
+***
+**Hello Future GenAI Expert!**
+
+To get started with "A Practical Guide in Building a GenAI Application," please follow these two steps to gain access to the full content.
+
+- Enroll: Use this link to register on our learning platform: https://canvas.instructure.com/register
+
+- Get Access Code: Contact us at info@remitpro.io or visit www.genaiexpertise.com to receive the necessary course code for enrollment.
+
+***
+
 ![](./docs/Gemini_Generated_Image_pynidvpynidvpyni.png)
 
 ***
