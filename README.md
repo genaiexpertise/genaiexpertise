@@ -61,11 +61,6 @@ By the end of this course, participants will be able to:
 ---
 
 
-
-***
-
-![](./docs/Gemini_Generated_Image_pynidvpynidvpyni.png)
-
 ***
 
 # **A Practical Guide to Building a GenAI Application**
@@ -96,6 +91,12 @@ Each folder under `/labs` corresponds to a course module:
 12. **Capstone Project**
 
 ---
+
+***
+
+![](./docs/Gemini_Generated_Image_pynidvpynidvpyni.png)
+
+***
 
 # **🛠 Setup Instructions**
 
