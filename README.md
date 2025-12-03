@@ -1,35 +1,191 @@
-### Welcome to GenaIExpertise
-
-Unlock the potential of generative AI with GenaIExpertise.com, the go-to resource for businesses and individuals looking to harness the power of AI. I’m Tajudeen Abdulazeez, a freelance generative AI specialist with nearly a decade of experience. I work closely with clients to deliver customized AI solutions that drive innovation, efficiency, and growth. Whether you need help with AI model development, data operations, or advanced natural language processing, I'm here to provide expert guidance and support.
-
-### Services 
-My Expertise
-
-As a generative AI freelancer, I offer a range of services designed to help you achieve your AI goals:
-
-- Generative AI Consulting: Tailored advice and strategic planning to integrate generative AI into your business.
-
-- Custom AI Model Development: Development of AI models that are specifically designed to meet your business challenges.
-
-- DataOps & MLOps Services: Streamlining and optimizing your data pipelines and machine learning operations for better performance and scalability.
-
-- LLMOps & Natural Language Processing: Expertise in deploying large language models for sophisticated text analysis and natural language processing tasks.
-
-- AI Training & Workshops: Practical training sessions to help your team develop the skills needed to leverage AI technologies effectively.
 
 
-### Contact Me
-Let's Work Together
+# **A Practical Guide to Building a GenAI Application — Course Labs**
 
-Interested in working together? Whether you have a specific project in mind or need expert advice on how to integrate AI into your business, I'm here to help. Let’s discuss how I can bring your ideas to life with generative AI.
+Welcome to the official lab repository for the course **A Practical Guide to Building a GenAI Application**.
 
-- Email: info@genaiexpertise.com
+This repository contains **all hands-on lab materials**, including code templates, notebooks, sample datasets, backend/frontend scaffolding, deployment scripts, and capstone project guides.
 
-- LinkedIn: [Tajudeen Abdulazeez](https://www.linkedin.com/in/tajudeenolarewajuabdulazeez/)
+---
 
+## **📚 Course Modules Covered**
 
+Each folder under `/labs` corresponds to a course module:
 
-<!---
-genaiexpertise/genaiexpertise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. **Intro to LLMs & APIs**
+2. **Architecture Design**
+3. **Embeddings & Vector Databases**
+4. **RAG Pipeline Development**
+5. **Backend Engineering (FastAPI)**
+6. **LangChain & LlamaIndex Agents**
+7. **Frontend Development (Next.js)**
+8. **Deployment with Docker & Cloud**
+9. **Monitoring, Logging & Evaluation**
+10. **Security & Governance**
+11. **Scaling GenAI Applications**
+12. **Capstone Project**
+
+---
+
+# **🛠 Setup Instructions**
+
+### **1. Clone the repo**
+
+```bash
+git clone https://github.com/<your-username>/genaiexpertise.git
+cd genaiexpertise
+```
+
+### **2. Create a virtual environment**
+
+```bash
+python -m venv venv
+source venv/bin/activate  # Mac/Linux
+venv\Scripts\activate     # Windows
+```
+
+### **3. Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+### **4. Setup environment variables**
+
+Create `.env` file in project root:
+
+```
+OPENAI_API_KEY=your_key
+WEAVIATE_URL=your_url
+PINECONE_API_KEY=your_key
+```
+
+---
+
+# **📂 Lab Highlights**
+
+---
+
+## **Lab 01: Intro to LLMs**
+
+* Call OpenAI / Anthropic APIs
+* Run open-source LLM locally (Llama / Mistral)
+* Simple chat bot in Python
+
+---
+
+## **Lab 03: Embeddings & Vector Stores**
+
+Includes:
+
+* Chunking script
+* Embedding creation
+* Weaviate / Pinecone setup
+* Vector search examples
+
+---
+
+## **Lab 04: RAG Pipeline**
+
+You will build:
+
+* Retrieval module
+* Context builder
+* RAG answer generator
+* Reranking with Cohere or HuggingFace
+
+---
+
+## **Lab 05: FastAPI Backend**
+
+A ready-made API project with endpoints:
+
+```
+POST /ingest
+POST /query
+POST /feedback
+GET /health
+```
+
+---
+
+## **Lab 07: Frontend (Next.js)**
+
+Includes:
+
+* Chat UI
+* Streaming responses
+* File upload → ingestion
+* API integration
+
+---
+
+## **Lab 08: Deployment**
+
+Templates for:
+
+* Dockerfile
+* docker-compose.yml
+* Fly.io deployment guide
+
+---
+
+## **Lab 12: Capstone Project**
+
+Includes:
+
+* Project guide
+* High-quality template structure
+* Evaluation rubric
+* Presentation tips
+
+---
+
+# **📦 Requirements**
+
+Contents of `requirements.txt`:
+
+```
+fastapi
+uvicorn
+langchain
+llama-index
+weaviate-client
+pinecone-client
+openai
+tiktoken
+python-dotenv
+pydantic
+httpx
+transformers
+sentence-transformers
+numpy
+pandas
+python-multipart
+loguru
+locust
+redis
+```
+
+---
+
+# **🔧 Contribution Guide**
+
+Fork → Branch → Commit → Pull Request.
+
+---
+
+# **📄 License**
+
+MIT License.
+
+---
+
+# **🚀 Author**
+
+**Tajudeen Abdulazeez**
+Generative AI Engineer | DataOps | MLOps | LLMOps
+Founder, Toraaglobal LLC / Remitpro Ltd
+
+---
+
