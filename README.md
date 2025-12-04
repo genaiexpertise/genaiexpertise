@@ -92,9 +92,6 @@ Each folder under `/labs` corresponds to a course module:
 
 ---
 
-***
-
-![](./docs/Gemini_Generated_Image_pynidvpynidvpyni.png)
 
 ***
 
