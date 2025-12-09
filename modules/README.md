@@ -9,7 +9,7 @@ The course follows a **hands-on, project-based approach**, culminating in a full
 
 ## **Course Format**
 
-* **Duration:** 6–8 weeks
+* **Duration:** 12 weeks
 * **Structure:** Weekly lectures + hands-on labs
 * **Delivery:** Online or in-person
 * **Tools:** Python, FastAPI, LangChain/LlamaIndex, Weaviate/Pinecone, Next.js, Docker
